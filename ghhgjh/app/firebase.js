@@ -6,13 +6,13 @@ import { getAppCheck, initializeAppCheck, ReCaptchaV3Provider } from "firebase/a
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAr-yQEsSPLMdinQ8GHITRYFUbiTwd8KAc",
-  authDomain: "school-web-c3ed5.firebaseapp.com",
-  projectId: "school-web-c3ed5",
-  storageBucket: "school-web-c3ed5.appspot.com",
-  messagingSenderId: "1066637057144",
-  appId: "1:1066637057144:web:504912fab65a5f2333e18d",
-  measurementId: "G-H26P0TE4N0"
+  apiKey: "AIzaSyC1SPNqM9kB708ZwtxLhlagSfIg82vLDUU",
+  authDomain: "test-3aa9d.firebaseapp.com",
+  projectId: "test-3aa9d",
+  storageBucket: "test-3aa9d.appspot.com",
+  messagingSenderId: "111464666312",
+  appId: "1:111464666312:web:fb0801c08699ccfebd41fd",
+  measurementId: "G-33F68Q2RD6"
 };
 
 // Initialize Firebase
